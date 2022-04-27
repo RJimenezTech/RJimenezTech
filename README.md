@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Robert Jimenez.
 - 👀 I’m interested in full-stack web development.
 - 🌱 I’m experienced with HTML, CSS, and JavaScript, but I continue to learn new technologies regularly.
-- 💞️ I’m willing to collaborate on small project and had a willingness to broaden my horizons.
+- 💞️ I’m willing to collaborate on small projects and have a strong willingness to broaden my horizons.
 - 📫 How to reach me email: RJimenezTech@gmail.com
